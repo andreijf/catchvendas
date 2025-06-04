@@ -16,7 +16,7 @@ except locale.Error:
 st.set_page_config(layout="wide", page_title="Dashboard de Vendas")
 
 # Carregamento e limpeza dos dados
-df_vendas = pd.read_csv("C:\\Users\\andre\\Desktop\\Asimov\\catch.csv")
+df_vendas = pd.read_csv("catch.csv")
 
 df_vendas["Valor Total"] = (
     df_vendas["Valor Total"]
