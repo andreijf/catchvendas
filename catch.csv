@@ -1,4 +1,4 @@
-Venda.Código,Venda.Data,Produto.Código,Descrição,Quantidade,Produto.Fornecedor,Custo Total,Venda.Valor Total Desconto,Valor Total,Pagamento
+Venda.Código,Venda.Data,Produto.Código,Produto,Quantidade,Produto.Fornecedor,Custo Total,Venda.Valor Total Desconto,Valor Total,Pagamento
 769,27/02/2025,0526,0526 - LUMINARIA PORTA ROLHAS ESPECIAL,"1,00",USARE LUMINÁRIAS," R$  114,80 ", R$  -   ," R$  264,00 ",Cartão de Crédito
 717,03/02/2025,0525,0525 - LUMINARIA HARRY POTTER LAMPADA,"1,00",USARE LUMINÁRIAS," R$  105,80 ", R$  -   ," R$  249,00 ",Cartão de Crédito
 823,02/04/2025,0528,0528 - LUMINARIA DARTH VADER STAR WARS,"1,00",USARE LUMINÁRIAS," R$  104,20 "," R$  13,55 "," R$  246,05 ",Dinheiro
